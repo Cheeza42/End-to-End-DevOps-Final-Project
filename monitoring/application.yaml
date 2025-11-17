@@ -12,10 +12,10 @@ spec:
       helm:
         valueFiles:
           - $values/monitoring/monitoring-values.yaml
-    - repoURL: https://github.com/cheeza42/Rolling_project_part_2.git
+    - repoURL: https://github.com/cheeza42/End-to-End-DevOps-Final-Project.git
       targetRevision: env-prod
       ref: values
-    - repoURL: https://github.com/cheeza42/Rolling_project_part_2.git
+    - repoURL: https://github.com/cheeza42/End-to-End-DevOps-Final-Project.git
       targetRevision: env-prod
       path: monitoring/app-metrics
       directory:

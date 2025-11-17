@@ -3,7 +3,7 @@
 ## Overview
 This branch represents the **production deployment environment** for the project.  
 It is automatically updated by the Jenkins pipeline after each successful build and push of the Docker image `docker.io/cheeza42/dockerizing-project`.  
-ArgoCD continuously monitors this branch and synchronizes any manifest changes to the production Kubernetes cluster defined for **Rolling_project_part_2**.
+ArgoCD continuously monitors this branch and synchronizes any manifest changes to the production Kubernetes cluster defined for **End-to-End-DevOps-Final-Project**.
 
 ---
 
