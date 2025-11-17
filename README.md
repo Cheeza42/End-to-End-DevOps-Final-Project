@@ -1,5 +1,5 @@
 # 🚀 End-to-End-DevOps-Final-Project
-Hi there! This is my ENd-to-End final project in DevOps studies. This project will present you a full DevOps work-flow.  
+Hi there! This is my End-to-End final project in DevOps studies. This project will present you a full DevOps work-flow.  
 
 ---
 
