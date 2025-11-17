@@ -1,5 +1,5 @@
 # 🚀 End-to-End-DevOps-Final-Project
-This is the second part of the rolling project  
+Hi there! This is my ENd-to-End final project in DevOps studies. This project will present you a full DevOps work-flow.  
 
 ---
 
