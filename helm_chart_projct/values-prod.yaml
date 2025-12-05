@@ -1,7 +1,7 @@
 nameOverride: myapp
 fullnameOverride: myapp-prod
 
-image: docker.io/cheeza42/dockerizing-project:20251205-093357
+image: docker.io/cheeza42/dockerizing-project:20251205-093559
 
 deployment:
   enabled: true
